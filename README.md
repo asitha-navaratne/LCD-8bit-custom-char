@@ -8,4 +8,4 @@ to the ASCII character will be lit.</p>
 
 <p align="justify">Since each character displayed on the 16x2 LCD display module is composed of a grid of 7x5 or 8x5 pixels (depending on the display), the custom character information is represented and stored in an array of hexadecimal values, each representing a row of the pixel grid. Once the memory location the character should be stored at has been sent, each hexadecimal value of the character array will be transferred one after the other. In this way, the custom characters can be stored on the LCD module to be accessed and displayed later.</p>
 
-<p align="justify">For more information on using the LCD module in 8-bit mode, visit my LCD-8bit-mode repo <a href="https://github.com/asitha-navaratne/LCD-8bit-mode">here.</a></p>
+<p align="justify">For more information on using the LCD module in 8-bit mode, visit my LCD-8bit-mode repo <a href="https://github.com/asitha-navaratne/LCD-8bit-mode">here</a>.</p>
